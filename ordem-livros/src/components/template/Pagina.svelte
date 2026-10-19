@@ -9,7 +9,7 @@
 
 <div class="flex flex-col min-h-screen bg-black text-white">
 <Cabecalho />
-<div class="flex max-w-7xl mx-auto w-full p-5">
+<div class="flex-1 flex max-w-7xl  gap-5 mx-auto w-full p-5">
   <main class="flex-1">
     {@render children()}
   </main>
