@@ -66,7 +66,7 @@ const series = [
         link: "https://www.amazon.com.br/gp/product/B01LQM96LY?notRedirectToSDP=1&ref_=dbs_mng_calw_5&storeType=ebooks",
       },
       {
-        id: "Harry Potter e as Reliquias da Morte",
+        id: "harry-potter-e-as-reliquias-da-morte",
         titulo: "Harry Potter e as Relíquias da Morte",
         autor: autores[0],
         ano: 2007,

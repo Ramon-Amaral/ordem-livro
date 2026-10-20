@@ -15,7 +15,7 @@
  <Menu titulo="Principais Autores">
 <Menuitem texto="J.K. Rowling" href="/autores/j-k-rowling"/>
 <Menuitem texto ="J.R.R. Tolkien" href="/autores/j-r-r-tolkien"/>
-<Menuitem texto="George R.R. Martin" href="/autores/george-martin"/>
+<Menuitem texto="George R.R. Martin" href="/autores/george-r-r-martin"/>
  </Menu>
  <Menu titulo="Outras Categorias"> 
 <Menuitem texto="Últimas Notícias" href="/" />

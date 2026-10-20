@@ -1,2 +1,12 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
+
+.botao {
+  @apply flex justify-center items-center gap-2;
+  @apply py-1 px-8 rounded-md;
+}
+
+.botao.azul {
+  @apply bg-blue-500 text-white;
+  @apply hover:bg-blue-600
+}
